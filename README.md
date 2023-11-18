@@ -14,6 +14,7 @@ The goal of this project was to conduct a comprehensive Exploratory Data Analysi
 
 ---
 
+[**Live Dashboard**](https://www.novypro.com/project/exploratory-data-analysis---retail)
 ![Dashboard](https://github.com/Apaulgithub/Exploratory_Data_Analysis_Retail/blob/main/Super%20store%20sales%20Dashboard.png)
 
 ## Project Summary
