@@ -1,6 +1,6 @@
 # Exploratory Data Analysis - Retail
 
-**The Spark Foundation Verified Project** - [**Credentials**]
+**The Spark Foundation Verified Project** - [**Credentials**](https://truecertificates.com/verified/CWPTEQ665J)
 
 ![MasterHead](https://img.freepik.com/free-photo/abundance-healthy-food-choices-supermarket-aisle-generated-by-ai_188544-42447.jpg?t=st=1696667586~exp=1696671186~hmac=b15da23e917702f9d6df308bf5294a3ffa914ead4e9598963ca69b381d80ac5c&w=826)
 
